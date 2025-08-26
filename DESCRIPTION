@@ -1,0 +1,15 @@
+Package: CMDdemux
+Title: CMDdemux: an efficient single cell demultiplexing method
+Version: 0.0.1.0
+Date: 2025-08-24
+Author: Jianan Wang
+Maintainer: Jianan Wang <wang.j@wehi.edu.au>
+Description: CMDdemux is a package for demultiplexing single-cell hashing data. 
+     When cells are pooled together, CMDdemux classifies the sample origin of each 
+     single cell using its hashing label. The method is based on within-CLR 
+     normalization, k-medoids clustering, and Mahalanobis distance.
+License: GPL-3
+Depends: R (>= 4.5.0)
+Imports: MASS, ggplot2, cluster, dplyr, magrittr, patchwork, multimode, plotly, Matrix
+Encoding: UTF-8
+RoxygenNote: 7.3.2
