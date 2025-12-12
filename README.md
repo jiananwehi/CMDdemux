@@ -7,3 +7,5 @@ install.packages("devtools")
 devtools::install_github("jiananwehi/CMDdemux")
 library(CMDdemux)
 ```
+## Vignette
+[https://bookdown.org/yeswangjianan/CMDdemux/](https://bookdown.org/yeswangjianan/CMDdemux/)
