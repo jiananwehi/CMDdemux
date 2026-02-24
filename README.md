@@ -91,7 +91,7 @@ The Mahalanobis distance for each single cell can be calculated using `Calculate
 md.mat <- CalculateMD(clr.norm, noncore, kmed.cl, cluster.assign)
 ```
 
-The output is a Mahalanobis distance matrix with rows representing hashtag samples and columns representing cells. Each entry indicates the Mahalanobis distance of a cell to a given hashtag sample.
+The output is a Mahalanobis distance matrix with rows representing hashtag samples and columns representing cells. Each entry indicates the Mahalanobis distance of a cell to a hashtag sample centroid.
 
 ### Detect outlier cells
 
