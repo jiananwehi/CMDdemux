@@ -9,7 +9,7 @@ library(CMDdemux)
 ```
 
 ## Vignette
-[https://bookdown.org/yeswangjianan/CMDdemux/](https://bookdown.org/yeswangjianan/CMDdemux/) <br>
+[https://jiananwehi.github.io/CMDdemux_vignette/](https://jiananwehi.github.io/CMDdemux_vignette/) <br>
 The vignette above gives a detailed description of how to use CMDdemux with different types of data, and we strongly recommend reading it for full guidance. <br>
 This README provides a short introduction for quickly getting started with CMDdemux. <br>
 
